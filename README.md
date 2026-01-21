@@ -91,6 +91,8 @@ To run the core swarm simulation and see the Decentralized Consensus Protocol in
 python main.py
 ```
 
+![VYNO Banner](assets/vyno_banner.png)
+
 ## Overview / Demo
 
 <p align="center">
