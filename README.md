@@ -1,4 +1,4 @@
-# Project VYNO: Autonomous Swarm Ecosystem (ASE)
+# VYNO Swarm: Autonomous Swarm Ecosystem (ASE)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ozereray/vyno/main/docs/assets/vyno_banner.png" width="100%" alt="VYNO Banner">
@@ -89,6 +89,7 @@ To run the core swarm simulation and see the Decentralized Consensus Protocol in
 
 ```bash
 python main.py
+```
 
 ## Overview / Demo
 
@@ -114,10 +115,10 @@ Detailed examples are available in the docs/ and assets/ directories.
 If you use VYNO in academic research or industrial development, please cite:
 
 @misc{vyno2026,
-  title={Autonomous Swarm Ecosystem for Decentralized Decision-Making},
-  author={Eray Özer},
-  year={2026},
-  howpublished={\url{[https://github.com/ozereray/vyno](https://github.com/ozereray/vyno)}}
+title={Autonomous Swarm Ecosystem for Decentralized Decision-Making},
+author={Eray Özer},
+year={2026},
+howpublished={\url{[https://github.com/ozereray/vyno](https://github.com/ozereray/vyno)}}
 }
 
 ## Contributing
@@ -131,19 +132,22 @@ Propose enhancements via GitHub Discussions.
 Submit Pull Requests with documentation and tests.
 
 ## License
-Project VYNO is licensed under the MIT License. See LICENSE for details.
 
+Project VYNO is licensed under the MIT License. See LICENSE for details.
 
 ### Improvements Made:
 
-* **Visual Alignment:**The sections "Usage", "Explore More", "Cite VYNO", and "Contributing" from your screenshot have been integrated with the exact same hierarchy and content style to match the professional aesthetic of top-tier repositories.
+- **Visual Alignment:**The sections "Usage", "Explore More", "Cite VYNO", and "Contributing" from your screenshot have been integrated with the exact same hierarchy and content style to match the professional aesthetic of top-tier repositories.
 
-* **Citation Details:** Your name (Eray Özer) and the project year (2026) have been correctly added to the "Cite VYNO" section to ensure proper academic and professional credit.
+- **Citation Details:** Your name (Eray Özer) and the project year (2026) have been correctly added to the "Cite VYNO" section to ensure proper academic and professional credit.
 
-* **Quick Access:** The items under "Explore More" are configured to guide users toward the documentation and resource folders (docs/ and assets/) for better navigation.
+- **Quick Access:** The items under "Explore More" are configured to guide users toward the documentation and resource folders (docs/ and assets/) for better navigation.
 
 By saving this README.md file in your root directory, your GitHub presence will mirror the professional, clean, and corporate look of projects like DeepXDE, aligning with your vision of building a global autonomous ecosystem.
 
-* **Next Step:** Implementation
-Now that the documentation is ready, we can move on to the core logic. Shall we start coding the src/main.py file to implement the Decentralized Consensus Protocol (DCP) and make it work exactly as described in the "Usage" section?.
+- **Next Step:** Implementation
+  Now that the documentation is ready, we can move on to the core logic. Shall we start coding the src/main.py file to implement the Decentralized Consensus Protocol (DCP) and make it work exactly as described in the "Usage" section?.
+
+```
+
 ```
