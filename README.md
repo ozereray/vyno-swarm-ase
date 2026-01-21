@@ -136,20 +136,3 @@ Submit Pull Requests with documentation and tests.
 ## License
 
 Project VYNO is licensed under the MIT License. See LICENSE for details.
-
-### Improvements Made:
-
-- **Visual Alignment:**The sections "Usage", "Explore More", "Cite VYNO", and "Contributing" from your screenshot have been integrated with the exact same hierarchy and content style to match the professional aesthetic of top-tier repositories.
-
-- **Citation Details:** Your name (Eray Özer) and the project year (2026) have been correctly added to the "Cite VYNO" section to ensure proper academic and professional credit.
-
-- **Quick Access:** The items under "Explore More" are configured to guide users toward the documentation and resource folders (docs/ and assets/) for better navigation.
-
-By saving this README.md file in your root directory, your GitHub presence will mirror the professional, clean, and corporate look of projects like DeepXDE, aligning with your vision of building a global autonomous ecosystem.
-
-- **Next Step:** Implementation
-  Now that the documentation is ready, we can move on to the core logic. Shall we start coding the src/main.py file to implement the Decentralized Consensus Protocol (DCP) and make it work exactly as described in the "Usage" section?.
-
-```
-
-```
