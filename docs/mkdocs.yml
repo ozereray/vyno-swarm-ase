@@ -1,0 +1,16 @@
+site_name: VYNO Documentation
+theme:
+  name: material
+  palette:
+    scheme: slate # Professional dark mode
+    primary: indigo
+
+nav:
+  - Home: index.md
+  - Setup: installation.md
+  - Engineering:
+      - Architecture: architecture.md
+      - Mathematical Foundation: math_background.md
+  - Development:
+      - Tutorials: tutorials.md
+      - API Reference: api_reference.md

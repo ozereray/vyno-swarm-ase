@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: vyno-ase
+Version: 1.0.0
+Summary: A Decentralized Autonomous Swarm Ecosystem framework
+Author: Eray Özer
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
